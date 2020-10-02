@@ -1,0 +1,1 @@
+This is file used for renaming and deleting.
